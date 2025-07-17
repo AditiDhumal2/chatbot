@@ -14,7 +14,7 @@ function App() {
     setMessage('');
 
     try {
-      const res = await fetch('https://chatbot-qxgm.onrender.com', {
+      const res = await fetch('https://chatbot-qxgm.onrender.com/chat/api', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message }),
@@ -65,6 +65,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
