@@ -10,11 +10,12 @@ It answers basic user queries with smart responses, and has a clean modern UI!
 
 ## 🔥 Features
 
-- 💬 Real-time chat interface
-- 🤖 NLP processing using spaCy
-- 🧠 Flask backend handles responses
-- 🎨 Stylish and responsive frontend using React
-- 🌈 Gradient background with glass-style chatbot box
+- Responds to greetings like `hi`, `hello`
+- Answers small talk like `how are you?`, `who made you?`
+- Tells jokes using the `pyjokes` library
+- Returns current time
+- Handles thank you, help, and goodbye messages
+- Includes fallback response for unknown inputs
 
 ---
 
