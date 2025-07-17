@@ -4,12 +4,8 @@
 A simple, interactive chatbot built using **React.js** (frontend), **Flask** (backend), and **spaCy** (NLP).  
 It answers basic user queries with smart responses, and has a clean modern UI!
 
-## 🔗 Deployed Projects
-
-- 🚀 **Frontend (React)** — Deployed on Netlify  
-  ⚙️ **Backend (Flask)** — Deployed on Render
-      connected both frontend and backend url-> https://chatbot-aditi.netlify.app/
-
+🚀 Live Demo
+👉 Click here to try the chatbot https://chatbot-aditi.netlify.app/
 ---
 
 ## 🔥 Features
@@ -23,12 +19,12 @@ It answers basic user queries with smart responses, and has a clean modern UI!
 ---
 
 ## 🛠️ Tech Stack
+Frontend: React.js (hosted on Netlify)
 
-| Frontend | Backend | NLP Engine |
-|----------|---------|------------|
-| React.js | Flask   | spaCy      |
+Backend: Flask, Python, spaCy (hosted on Render)
 
----
+Deployment: Netlify (Frontend), Render (Backend)
+
 
 ## 📂 Project Structure
 
