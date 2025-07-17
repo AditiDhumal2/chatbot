@@ -5,7 +5,7 @@ A simple, interactive chatbot built using **React.js** (frontend), **Flask** (ba
 It answers basic user queries with smart responses, and has a clean modern UI!
 
 🚀 Live Demo
-👉 Click here to try the chatbot https://chatbot-aditi.netlify.app/
+👉 🔗 Live Demo – Aditi's AI Chatbot
 ---
 
 ## 🔥 Features
