@@ -5,7 +5,7 @@ from backend.chatbot import get_response
 app = Flask(__name__)
 CORS(app)  # Enable Cross-Origin requests (for frontend connection)
 
-@app.route('/chat', methods=['POST'])
+@app.route('/chat/api', methods=['POST'])
 def chat():
     data = request.get_json()
     user_input = data.get("message")
