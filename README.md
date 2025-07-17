@@ -7,10 +7,8 @@ It answers basic user queries with smart responses, and has a clean modern UI!
 ## 🔗 Deployed Projects
 
 - 🚀 **Frontend (React)** — Deployed on Netlify  
-  👉 [Click here to view frontend](https://chatbot-aditi.netlify.app/)
-
-- ⚙️ **Backend (Flask)** — Deployed on Render  
-  👉 [Click here to view backend API](https://your-backend.onrender.com)
+  ⚙️ **Backend (Flask)** — Deployed on Render
+      connected both frontend and backend url-> https://chatbot-aditi.netlify.app/
 
 ---
 
